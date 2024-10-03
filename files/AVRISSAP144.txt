@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP144
+ET    Non-clinical
+PN    Smp24
+PL    24 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Scorpio maurus palmatus
+TX    Animalia (Scorpion)
+VL    Experimentally validated
+XX
+TO    VISA-26
+IC    MIC = 64 microG/ML
+TH    Toxic to sheep erythrocytes
+XR    PubMed: 27019370
+XR    PubMed: 34360692
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      IWSFLIKAAT KLLPSLFGGG -KKDS 
+//
+

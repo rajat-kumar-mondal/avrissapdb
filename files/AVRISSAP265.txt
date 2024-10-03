@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP265
+ET    Non-clinical
+PN    Fallaxin
+PL    25 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    West Indian mountain chicken frog Leptodactylus fallax
+TX    Animalia (Frog)
+VL    Experimentally validated
+XX
+TO    VISA
+IC    MIC = 100 microM
+TH    0% hemolytic activity found at the tested concentration for VISA.
+XR    PubMed: 17766389
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 5U9S_A
+XR    UniProt: C0HKF0
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      GVVDILKGAA KDIAGHLASK VMNKL-NH2 
+//
+

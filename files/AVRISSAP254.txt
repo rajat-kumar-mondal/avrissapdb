@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP254
+ET    Non-clinical
+PN    RR
+PL    11 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Synthetic peptide
+TX    Not available
+VL    Experimentally validated
+XX
+TO    VRSA-33
+IC    MIC = 32 microM
+TH    Low hemolytic activity, but show toxicity in mammalian cell lines
+XR    PubMed: 24798285
+XR    PubMed: 34360692
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 7YSS_A
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      WLRRIKAWLR R 
+//
+

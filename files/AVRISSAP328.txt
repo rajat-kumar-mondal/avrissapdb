@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP328
+ET    Non-clinical
+PN    RRIKA
+PL    14 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Synthetic peptide
+TX    Not available
+VL    Experimentally validated
+XX
+TO    VRSA 7
+IC    MIC = 4 microM
+TH    RRIKA caused minimal hemolysis in human erythrocytes even at 300microM, exhibited no toxicity to HeLa cells up to 32microM (8 times its MIC), and had an EC50 of 64microM against macrophages, showing significantly lower toxicity compared to melittin.
+XR    PubMed: 24798285
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 7YSS_A
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      WLRRIKAWLR RIKA 
+//
+

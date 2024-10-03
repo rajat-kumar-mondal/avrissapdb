@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP27
+ET    Clinical
+PN    DIK-8
+PL    8 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Synthetic peptide
+TX    Not available
+VL    Experimentally validated
+XX
+TO    VISA-5 (clinical isolate of multi-drug resistant S. aureus were provided by Network of Antimicrobial Resistance in Staphylococcus aureus (NARSA) program supported under NIAID/NIH Contract # HHSN272200700055C)
+IC    MIC = 8 microM
+TH    Not available
+XR    PubMed: 27405275
+XR    PubMed: 34360692
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      IRIKIRIK 
+//
+

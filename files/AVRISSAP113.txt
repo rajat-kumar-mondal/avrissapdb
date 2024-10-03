@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP113
+ET    Clinical
+PN    RMAD-4
+PL    32 [Note: any special compound, if present in sequence, is not considered in length]
+SR    myeloid a-defensin
+SO    Rhesus macaque
+TX    Animalia (Rhesus monkey)
+VL    Experimentally validated
+XX
+TO    DH 290 (hVISA) (clinical bacterial isolate obtained from hospitalized patients at Huntington Hospital (Pasadena, CA, USA))
+IC    MBC = 1.5 microM
+TH    RMAD-4, along with Crp-4 and RTD-1, are non-hemolytic peptides. Systemic administration of RMAD-4 to BALB/c mice was non-toxic and stable in serum and plasma, indicating its safety profile in vivo.
+XR    PubMed: 24345876
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      RRTCRCRFGR CFRRESYGSC NINGRIFSLC CR 
+//
+

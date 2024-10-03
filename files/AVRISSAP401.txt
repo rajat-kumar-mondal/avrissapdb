@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP401
+ET    Non-clinical
+PN    NZ2114
+PL    17 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Defensin
+SO    Pseudoplectania nigrella
+TX    Bacteria
+VL    Experimentally validated
+XX
+TO    VRSA 2 (Pennsylvania HIP11983)
+IC    Emax = 64 mg/L (At lower acidic pH)
+TH    Not available
+XR    PubMed: 20534628
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      Glu-Val-Pr o-Trp-Asn- Pro-Ala-Pr o-Pro-Pro- Pro-Pro-Pr o-Pro-Pro- 
+      Pro-Pro 
+//
+

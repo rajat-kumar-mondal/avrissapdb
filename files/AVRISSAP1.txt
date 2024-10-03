@@ -1,0 +1,25 @@
+ID    AVR/I/SSAP1
+ET    Clinical
+PN    Melittin
+PL    26 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Bee venom
+SO    Apis mellifera
+TX    Animalia (Insect)
+VL    Experimentally validated
+XX
+TO    VISA-9 (clinical isolate collected from burn wound infections)
+IC    MIC = 2 microM
+TH    High toxicity to erythrocytes and other human cells
+XR    PubMed: 34087287
+XR    PubMed: 34360692
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 3QRX_B
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 1BH1_A
+XR    UniProt: P68407
+XR    UniProt: P01501
+XR    UniProt: Q8LW54
+XR    DrugBank: DB10955
+XX
+SQ    SEQUENCE  
+      GIGAVLKVLT TGLPALISWI KRKRQQ 
+//
+

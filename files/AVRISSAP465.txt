@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP465
+ET    Non-clinical
+PN    Polymyxin B
+PL    18 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Bacillus polymyxa
+TX    Bacteria
+VL    Experimentally validated
+XX
+TO    VISA
+IC    MIC = 10.39 microG/ML
+TH    Not available
+XR    PubMed: 20654578
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: DB00781
+XX
+SQ    SEQUENCE  
+      D-Leu-D-Le u-D-Thr-D- Pro-D-Leu- D-Val-D-Va l-D-Asp-D- Glu-D-Ile- 
+      D-Asn-D-Le u-D-Ala-D- Ala-D-Ala- D-Trp-D-Ph e-D-Thr 
+//
+

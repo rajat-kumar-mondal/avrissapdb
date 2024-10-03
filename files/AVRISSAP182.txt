@@ -1,0 +1,23 @@
+ID    AVR/I/SSAP182
+ET    Non-clinical
+PN    LTX-109
+PL    12 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Synthetic peptide
+TX    Not available
+VL    Experimentally validated
+XX
+TO    VISA-3
+IC    MIC = 2-4 microG/ML
+TH    Phase III of a clinical trial
+XR    PubMed: 22585222
+XR    PubMed: 34360692
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: DB12711
+XX
+SQ    SEQUENCE  
+      Gly-Gly-Gl u-Phe-Ile- Lys-Arg-Il e-Lys-Ile- Arg-Gly-Gl y 
+      
+//
+

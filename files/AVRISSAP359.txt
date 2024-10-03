@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP359
+ET    Non-clinical
+PN    Agelaia-MPI
+PL    14 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Venom of Parachartergus fraternus
+SO    Parachartergus fraternus
+TX    Animalia (Insect)
+VL    Experimentally validated
+XX
+TO    S. aureus VRSA
+IC    MIC = 4-8 microG/ML
+TH    Agelaia-MPI was found to be hemolytic and toxic to cancerous and non-cancerous cell lines. Agelaia-MPI showed hemolytic activity with a hemolytic concentration to lyse 50% of red blood cells (HC50) of 11.5 plusminus 1.1 microM. Agelaia-MPI also exhibited cytotoxic activity against cancerous cells with a CC50 >32 microM and non-cancerous cells with a CC50 >32 microM.
+XR    PubMed: 33244888
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: P0DRA8
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      INWLKLGKAI IDAL 
+//
+

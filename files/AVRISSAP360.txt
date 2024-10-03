@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP360
+ET    Non-clinical
+PN    NeuroVAL
+PL    13 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Venom of Parachartergus fraternus
+SO    Parachartergus fraternus
+TX    Animalia (Insect)
+VL    Experimentally validated
+XX
+TO    S. aureus VRSA
+IC    MIC = 128 microG/ML
+TH    Not available
+XR    PubMed: 33244888
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 7JGX_A
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      ILE-PHE-TR P-LEU-PHE- ARG-GLY-LY S-ALA-ASP- VAL-ALA-LE U-NH2 
+      
+//
+

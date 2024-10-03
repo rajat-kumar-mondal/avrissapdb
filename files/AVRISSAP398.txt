@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP398
+ET    Non-clinical
+PN    MSI-843
+PL    22 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Xenopus laevis 
+TX    Animalia (Frog)
+VL    Experimentally validated
+XX
+TO    VRSA
+IC    MIC = 1.6 to 12.5 microM
+TH    MSI-843, has broad-spectrum antimicrobial activity without observable hemolytic activity.
+XR    PubMed: 20459377
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      G-I-G-K-F- L-K-K-A-K- K-F-G-K-A- F-V-K-I-L- K-K-NH2 
+//
+

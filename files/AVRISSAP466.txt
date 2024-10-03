@@ -1,0 +1,24 @@
+ID    AVR/I/SSAP466
+ET    Non-clinical
+PN    Colistin
+PL    30 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Bacillus polymyxa
+TX    Bacteria
+VL    Experimentally validated
+XX
+TO    VISA
+IC    MIC = Not available
+TH    Not available
+XR    PubMed: 20654578
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: DB00803
+XX
+SQ    SEQUENCE  
+      D-Phe-D-Le u-D-Thr-D- Ser-D-Glu- D-Gln-L-Pr o-D-Val-D- Val-D-Leu- 
+      D-Pro-D-Tr p-D-Leu-D- Lys-D-Asn- D-Ala-D-Al a-D-Ala-D- Gly-D-Ser- 
+      D-Ser-D-Al a-D-Ala-D- Ala-D-Arg- D-Ser-D-Le u-D-Thr-D- Leu-D-Thr 
+      
+//
+

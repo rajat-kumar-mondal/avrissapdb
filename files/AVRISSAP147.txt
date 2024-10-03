@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP147
+ET    Non-clinical
+PN    IR
+PL    37 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Ixodes ricinus
+TX    Animalia (Insect)
+VL    Experimentally validated
+XX
+TO    VRSA-3
+IC    MIC = 32 microG/ML
+TH    Not available
+XR    PubMed: 27531221
+XR    PubMed: 34360692
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      GGYYCPFFQD KCHRHCRSFG RKAGYCGGFL KKTCICV 
+//
+

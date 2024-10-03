@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP271
+ET    Non-clinical
+PN    FA20
+PL    25 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    West Indian mountain chicken frog Leptodactylus fallax
+TX    Animalia (Frog)
+VL    Experimentally validated
+XX
+TO    VISA
+IC    MIC = 100 microM
+TH    2% hemolytic activity found at the tested concentration for VISA.
+XR    PubMed: 17766389
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      GVVDILKGAA KDIAGHLASA VMNKL-NH2 
+//
+

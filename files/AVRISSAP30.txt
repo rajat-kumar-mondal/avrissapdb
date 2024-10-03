@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP30
+ET    Clinical
+PN    Mersacidin
+PL    15 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Bacillus sp. strain HIL Y-85, 54728
+TX    Bacteria
+VL    Experimentally validated
+XX
+TO    VISA strain SA137/93A (clinical isolate)
+IC    MIC = 35 microG/ML
+TH    Not available
+XR    PubMed: 18947397
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      A-Abu-I-Ab u-L-P-C-G- G-G-V-A-Ab u-L-Abu-Dh a-E-A-I 
+//
+

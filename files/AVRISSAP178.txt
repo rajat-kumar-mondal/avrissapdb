@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP178
+ET    Non-clinical
+PN    LI-F04a analog 6
+PL    6 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Fusaricidin analogs
+TX    Not available
+VL    Experimentally validated
+XX
+TO    VISA-29
+IC    MIC = 16 microG/ML
+TH    Hemolysis on human erythrocytes
+XR    PubMed: 22392790
+XR    PubMed: 34360692
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      Thr-Val-Va l-Thr-Asn- Ala 
+//
+

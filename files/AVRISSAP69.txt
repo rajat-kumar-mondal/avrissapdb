@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP69
+ET    Clinical
+PN    IR
+PL    37 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Ixodes ricinus
+TX    Animalia (Insect)
+VL    Experimentally validated
+XX
+TO    VRS1 (VRSA) (clinical isolate stored at TS
+TO    Nissui, Tokyo, Japan)
+IC    MIC(90%) = 32 microG/ML
+TH    Not available
+XR    PubMed: 27531221
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      GGYYCPFFQD KCHRHCR SF GRKAGYCGGF LKKTCICV 
+//
+

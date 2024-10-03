@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP296
+ET    Non-clinical
+PN    Phormicin C
+PL    40 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Musca domestica
+TX    Animalia (Insect)
+VL    Experimentally validated
+XX
+TO    VRSA-27
+IC    MIC = 32 microG/ML
+TH    Not available
+XR    PubMed: 34360692
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      ATCDLLSGTG VGHSACAAHC LLRGNRGGYC NGKGVCVCRN 
+//
+

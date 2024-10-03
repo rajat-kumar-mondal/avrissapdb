@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP176
+ET    Non-clinical
+PN    CSPK14
+PL    12 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Bacillus amyloliquefaciens
+TX    Bacteria
+VL    Experimentally validated
+XX
+TO    VRSA-13
+IC    MIC = 64 microG/ML
+TH    Not available
+XR    PubMed: 27787755
+XR    PubMed: 34360692
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      HYDPGDDSGN TG 
+//
+

@@ -1,0 +1,24 @@
+ID    AVR/I/SSAP135
+ET    Non-clinical
+PN    Cecropin A
+PL    23 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Hyalophora cecropi
+TX    Animalia (Insect)
+VL    Experimentally validated
+XX
+TO    VISA-8
+IC    MIC = 64 microG/ML
+TH    Low cytotoxic effect on human lung carcinoma
+XR    PubMed: 16797106
+XR    PubMed: 34360692
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 2LSA_A
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 2MAG_A
+XR    UniProt: C0HKN6
+XR    UniProt: P11006
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      GIGKFLHSAK KFGKAFVGEI MNS 
+//
+

@@ -1,0 +1,23 @@
+ID    AVR/I/SSAP138
+ET    Non-clinical
+PN    NeuroVAL
+PL    13 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Agelaia-MPI analog
+SO    Parachartergus fraternus
+TX    Animalia (Insect)
+VL    Experimentally validated
+XX
+TO    VRSA-33
+IC    MIC = 128 microG/ML
+TH    Non toxic to human erythrocytes, and cancerous and non-cancerous cells lines.
+XR    PubMed: 33244888
+XR    PubMed: 34360692
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      ILE-PHE-TR P-LEU-PHE- ARG-GLY-LY S-ALA-ASP- VAL-ALA-LE U-NH2 
+      
+//
+

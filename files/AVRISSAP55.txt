@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP55
+ET    Clinical
+PN    Smp24
+PL    24 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Scorpio maurus palmatus
+TX    Animalia (Scorpion)
+VL    Experimentally validated
+XX
+TO    VISA KM126 (clinical isolate from Sheffield Hallam University)
+IC    MIC = 64 microG/ML
+TH    Smp24, a broad-spectrum antimicrobial peptide from Scorpio maurus palmatus venom, disrupts membranes and causes hemolysis, unlike the non-hemolytic Smp43, with its hemolytic and cytotoxic effects influenced by modifications like truncation and the addition of a Gly-Val-Gly hinge.
+XR    PubMed: 27019370
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      IWSFLIKAAT KLLP--SLFG GG-KKDS 
+//
+

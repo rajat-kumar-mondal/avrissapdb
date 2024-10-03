@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP51
+ET    Clinical
+PN    MP196
+PL    6 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Synthetic peptide
+TX    Not available
+VL    Experimentally validated
+XX
+TO    Mu50 (VISA) (clinical isolate provided by Hans-Georg Sahl, University of Bonn, Germany, and Keiichi Hiramatsu, Juntendo University, Bunkyo, Japan)
+IC    MIC = 64 microG/ML
+TH    MP196 was only slightly hemolytic at high concentrations and not significantly cytotoxic to various human and animal cell lines, but it caused erythrocyte shrinking at 250microg/mL and severe morphological changes and lysis at 500microg/mL in murine red blood cells. In mice, intravenous doses of MP196 led to acute toxicity, including symptoms like excitement, indisposition, hind leg paralysis, and eventual death at higher concentrations.
+XR    PubMed: 27617260
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      RWRWRW-NH2 
+//
+

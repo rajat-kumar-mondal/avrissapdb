@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP469
+ET    Non-clinical
+PN    Hominicin
+PL    15 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Staphylococcus hominis MBBL 2-9
+TX    Bacteria
+VL    Experimentally validated
+XX
+TO    VISA-CCARM 3501
+IC    MIC = 3.82 microG/ML
+TH    Not available
+XR    PubMed: 20654578
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      DmIle-Dhb- Pro-Ala-Dh b-Pro-Phe- Dhb-Pro-Al a-Ile-Thr- Glu-Ile-Dh 
+      b-Ala-Ala- Val-Ile-Al a-Dmp 
+//
+

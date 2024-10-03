@@ -1,0 +1,29 @@
+ID    AVR/I/SSAP384
+ET    Non-clinical
+PN    LL-17
+PL    13 [Note: any special compound, if present in sequence, is not considered in length]
+SR    cathelicidin (hCAP19)
+SO    Homo sapiens
+TX    Animalia (Human)
+VL    Experimentally validated
+XX
+TO    ATCC 700699(S.aureus strain)
+IC    MIC = 1024 microG/ML
+TH    Not available
+XR    PubMed: 30120393
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 6S6M_A
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 2FBS_N
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 8DEW_D
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 5XNG_A
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 2L5M_A
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 2FCG_F
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 2K6O_A
+XR    UniProt: Q1KLX2
+XR    UniProt: Q1KLX1
+XR    UniProt: P49913
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      FKRIVQRIKD FLR 
+//
+

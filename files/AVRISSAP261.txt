@@ -1,0 +1,40 @@
+ID    AVR/I/SSAP261
+ET    Non-clinical
+PN    Metalloproteinases (AHM)
+PL    25 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Agkistrodon halys (pallas, Chinese viper) snake venom
+SO    Agkistrodon halys (pallas, Chinese viper) snake 
+TX    Animalia (Snake)
+VL    Experimentally validated
+XX
+TO    VRSA
+IC    MIC = 7.5 (80.9%) microG/ML, MBC = (7) 83.7% 
+TH    Not available
+XR    PubMed: 22050758
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: P83253
+XR    UniProt: C9E1S2
+XR    UniProt: Q805F5
+XR    UniProt: Q2LD49
+XR    UniProt: P20164
+XR    UniProt: Q90ZI3
+XR    UniProt: Q8AWI5
+XR    UniProt: Q8AWX7
+XR    UniProt: J9Z332
+XR    UniProt: J3SBP9
+XR    UniProt: C9E1R7
+XR    UniProt: P83912
+XR    UniProt: E9NW27
+XR    UniProt: P0C6B6
+XR    UniProt: P18619
+XR    UniProt: P17349
+XR    UniProt: Q90YA6
+XR    UniProt: Q7ZZS9
+XR    UniProt: E9NW26
+XR    UniProt: C9E1R9
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      MIQVLLVTIC LAVFPYQGSS IILES 
+//
+

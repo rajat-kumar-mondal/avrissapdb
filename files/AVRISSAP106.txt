@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP106
+ET    Clinical
+PN    Ramoplanin
+PL    7 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    glycolipodepsipeptide
+TX    Not available
+VL    Experimentally validated
+XX
+TO    VRSA HMC3 (clinical strain isolated at the Hershey Medical Center)
+IC    MIC = 0.125-0.5 mg/L
+TH    Not available
+XR    PubMed: 14563898
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: DB04952
+XX
+SQ    SEQUENCE  
+      Ac-D-Tyr-D -Tyr-D-4Cl -Phe-L-Ser -D-Hpg-D-O rn-D-Leu-D -Arg-D-Asn 
+      -NH2 
+//
+

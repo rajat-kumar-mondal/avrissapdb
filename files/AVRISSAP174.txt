@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP174
+ET    Non-clinical
+PN    Lugdunin
+PL    5 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Staphylococcus lugdunensis
+TX    Bacteria
+VL    Experimentally validated
+XX
+TO    VISA-30
+IC    MIC = 3 microG/ML
+TH    No lysis of primary human erythrocytes or neutrophils.
+XR    PubMed: 27466123
+XR    PubMed: 34360692
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      Thiazolidi ne-Val-Trp -Leu-Val-V al 
+//
+

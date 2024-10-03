@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP458
+ET    Non-clinical
+PN    LTX-109
+PL    12 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Synthetic peptide
+TX    Not available
+VL    Experimentally validated
+XX
+TO    VRSA VRS-7
+IC    MIC = 4 microG/ML
+TH    Non-hemolytic.
+XR    PubMed: 22585222
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: DB12711
+XX
+SQ    SEQUENCE  
+      Gly-Gly-Gl u-Phe-Ile- Lys-Arg-Il e-Lys-Ile- Arg-Gly-Gl y 
+      
+//
+

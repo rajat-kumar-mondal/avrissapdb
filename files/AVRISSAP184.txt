@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP184
+ET    Non-clinical
+PN    Omiganan (Indolicidin analog)
+PL    12 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Synthetic peptide
+TX    Not available
+VL    Experimentally validated
+XX
+TO    VISA-10
+IC    MIC = 16 microG/ML
+TH    Topical antimicrobial agent in phase III of a clinical trial
+XR    PubMed: 18178361
+XR    PubMed: 34360692
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: DB06610
+XX
+SQ    SEQUENCE  
+      ILRWPWWPWR RK-amide 
+//
+

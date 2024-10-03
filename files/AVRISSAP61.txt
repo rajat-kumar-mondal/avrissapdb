@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP61
+ET    Clinical
+PN    Smp43
+PL    43 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Scorpio maurus palmatus
+TX    Animalia (Scorpion)
+VL    Experimentally validated
+XX
+TO    VISA KM126 (clinical isolate from Sheffield Hallam University)
+IC    MIC = 64 microG/ML
+TH    Unlike the haemolytic Smp24, Smp43 was non-haemolytic but exhibited concentration-dependent cytotoxicity in HepG2 cells, as indicated by ATP release.
+XR    PubMed: 27019370
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      G-VWDWIKKT AGKIWNSEPV KALKSQALNA AKNFVAEKIG ATPS 
+//
+

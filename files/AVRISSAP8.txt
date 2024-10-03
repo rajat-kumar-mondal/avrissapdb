@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP8
+ET    Clinical
+PN    Temporin-1Oc
+PL    12 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Rana ornativentris
+TX    Animalia (Frog)
+VL    Experimentally validated
+XX
+TO    VISA-28 (clinical strain)
+IC    MIC = 1.6 microM
+TH    Strong hemolytic effect on human erythrocytes
+XR    PubMed: 29842923
+XR    PubMed: 34360692
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      FLPLLASLFR LF 
+//
+

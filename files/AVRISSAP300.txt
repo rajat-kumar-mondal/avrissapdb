@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP300
+ET    Non-clinical
+PN    Nisin
+PL    27 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Lactococcus lactis
+TX    Bacteria
+VL    Experimentally validated
+XX
+TO    hVISA 32675
+IC    MIC = 4.1 mg/L
+TH    Not available
+XR    PubMed: 19561147
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      I-Dhb-A-I- Dhb-I-A-Ab u-P-G-A-K- Abu-G-A-L- M-G-A-N-M- K-Abu-A-Ab 
+      u-A-H-A-S- I-H-V-Dha- K 
+//
+

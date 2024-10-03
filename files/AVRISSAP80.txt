@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP80
+ET    Clinical
+PN    WR12
+PL    12 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Synthetic peptide
+TX    Not available
+VL    Experimentally validated
+XX
+TO    VRSA (VRS11a) (clinical isolate)
+IC    EC50 = 4 microM
+TH    The MTS assay on HaCat cells revealed that WR12 have EC50 value of 128microM, indicating low toxicity to mammalian cells relative to their antimicrobial potency, which suggests a favorable drug safety profile and selective action against bacterial membranes.
+XR    PubMed: 27405275
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      RWWRWWRRWW RR 
+//
+

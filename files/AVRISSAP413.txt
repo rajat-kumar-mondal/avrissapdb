@@ -1,0 +1,20 @@
+ID    AVR/I/SSAP413
+ET    Non-clinical
+PN    Lysostaphin
+PL    13 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Staphylococcus simulans
+TX    Bacteria
+VL    Experimentally validated
+XX
+TO    VISA 5836
+IC    log10 CFU/ML = 9.65(0.07)
+TH    Lysostaphin alone showed no haemolysis or effect on Vero cell viability, and when combined with ranalexin, did not increase toxicity beyond ranalexin alone, with toxic concentrations for erythrocytes and Vero cells exceeding those needed for antibacterial efficacy in human serum.
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      Not availa ble 
+//
+

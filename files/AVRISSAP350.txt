@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP350
+ET    Non-clinical
+PN    RR
+PL    11 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Synthetic peptide
+TX    Not available
+VL    Experimentally validated
+XX
+TO    VRSA 13
+IC    MIC = 16 microM
+TH    RR demonstrated minimal toxicity to HeLa cells up to 64microM and low hemolytic activity with a maximum of 10% hemolysis at 300microM, making it a promising antimicrobial agent compared to the highly toxic melittin.
+XR    PubMed: 24798285
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 7YSS_A
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      WLRRIKAWLR R 
+//
+

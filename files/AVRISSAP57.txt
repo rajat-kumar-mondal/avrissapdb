@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP57
+ET    Clinical
+PN    Smp24GVG
+PL    26 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Scorpio maurus palmatus
+TX    Animalia (Scorpion)
+VL    Experimentally validated
+XX
+TO    VISA KM126 (clinical isolate from Sheffield Hallam University)
+IC    MIC = 64 microG/ML
+TH    The addition of a Gly-Val-Gly hinge to Smp24, resulting in Smp24GVG, did not alter its hemolytic activity or significantly change its cytotoxicity in HepG2 cells compared to the parent peptide.
+XR    PubMed: 27019370
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      IWSFLIKAAT KLLGVGSLFG GG-KKDS 
+//
+

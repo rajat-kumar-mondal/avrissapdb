@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP58
+ET    Clinical
+PN    Smp24T
+PL    19 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Scorpio maurus palmatus
+TX    Animalia (Scorpion)
+VL    Experimentally validated
+XX
+TO    VISA MU50 (clinical isolate from Sheffield Hallam University)
+IC    MIC = 32 microG/ML
+TH    Not available
+XR    PubMed: 27019370
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      IWSFLIKAAT KLL--PSLFG G 
+//
+

@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP262
+ET    Non-clinical
+PN    Bactofencin A
+PL    42 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Gram-positive bacteria, such as those from lactic acid bacteria
+TX    Bacteria
+VL    Experimentally validated
+XX
+TO    VRSA 40410425
+IC    MIC = 100 microM
+TH    Not available
+XR    PubMed: 30540905
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      GKGLVAKGAL SKVKAGVGAG KAGVVKALPA AKAVKVLAAK AA 
+//
+

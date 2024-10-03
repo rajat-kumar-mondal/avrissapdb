@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP136
+ET    Non-clinical
+PN    Agelaia-MPI
+PL    14 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Parachartergus fraternus
+TX    Animalia (Insect)
+VL    Experimentally validated
+XX
+TO    VRSA-33
+IC    MIC = 4-8 microG/ML
+TH    Strong hemolytic effect on human erythrocytes
+XR    PubMed: 33244888
+XR    PubMed: 34360692
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: P0DRA8
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      INWLKLGKAI IDAL 
+//
+

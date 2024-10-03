@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP127
+ET    Clinical
+PN    beta-(4, 4'-biphenyl)alanine (Bip-P-113)
+PL    9 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Synthetic peptide
+TX    Not available
+VL    Experimentally validated
+XX
+TO    VISA03 (clinical MDR strain isolate provided by Tsai-Ling Yang, National Health Research Institutes (Miaoli, Taiwan))
+IC    MIC = 8 microG/ML
+TH    At concentrations higher than 25 microG/mL, Bip-P-113 caused increased toxicity, 10-20% cell death and hemolysis. However, in an in vivo endotoxemia mouse model, no adverse effects were observed at a dose of 10 mg/kg (0.2 mg/mouse).
+XR    PubMed: 32605123
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: DB10955
+XX
+SQ    SEQUENCE  
+      Ac- A K R  Bip Bip G  Y K R K F  Bip -NH2 
+//
+

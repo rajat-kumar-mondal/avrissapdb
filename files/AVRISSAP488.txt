@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP488
+ET    Non-clinical
+PN    beta-naphthylalanine (Nal-P-113)
+PL    9 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Synthetic peptide
+TX    Not available
+VL    Experimentally validated
+XX
+TO    VRSA01
+IC    MIC = 32 microG/ML
+TH    Nal-P-113, a peptide with bulky hydrophobic side chains, exhibited increased cell toxicity and hemolytic activity at higher concentrations (> 25 microG/mL), causing 10-20% cell death and hemolysis. This was in comparison to controls, indicating a potential concern for toxicity at elevated doses.
+XR    PubMed: 32605123
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      Ac- A K R  Nal Nal G  Y K R K F  Nal -NH2 
+//
+

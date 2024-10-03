@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP361
+ET    Non-clinical
+PN    Protonectin
+PL    12 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Venom of Agelaia pallipes pallipes
+SO    Agelaia pallipes pallipes
+TX    Animalia (Insect)
+VL    Experimentally validated
+XX
+TO    S. aureus VRSA
+IC    MIC = 16 microG/ML
+TH    Protonectin showed cytotoxic activity against both cancerous and non-cancerous cells.
+XR    PubMed: 33244888
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 6N68_A
+XR    UniProt: P0C1R1
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      ILGTILGLLK GL 
+//
+

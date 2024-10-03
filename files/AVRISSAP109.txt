@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP109
+ET    Clinical
+PN    Cryptdin-4 (Crp-4)
+PL    32 [Note: any special compound, if present in sequence, is not considered in length]
+SR    a-defensin
+SO    Mouse
+TX    Animalia (Mouse)
+VL    Experimentally validated
+XX
+TO    DH 290 (hVISA) (clinical bacterial isolate obtained from hospitalized patients at Huntington Hospital (Pasadena, CA, USA))
+IC    MBC = 3 microM
+TH    Crp-4, along with RMAD-4 and RTD-1, are non-hemolytic peptides. Systemic administration of RTD-1 to BALB/c mice was non-toxic, stable in serum and plasma, and significantly improved survival in mice with E. coli peritonitis and sepsis induced by cecal ligation-and-puncture.
+XR    PubMed: 24345876
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 1TV0_A
+XR    UniProt: P28311
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      GLLCYCRKGH CKRGERVRGT C---GIRFLY CCPRR 
+//
+

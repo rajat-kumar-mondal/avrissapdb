@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP371
+ET    Non-clinical
+PN    Fusaricidin A/LI-F04a analogues compound 9
+PL    21 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Paenibacillus polymyxa
+TX    Bacteria
+VL    Experimentally validated
+XX
+TO    Mu50 (VRSA) ATCC 700699
+IC    MIC = 64 microG/ML
+TH    The cytotoxicity of analogues 1-18 was assessed using the MTT assay on WRL 68 and HepG2 cell lines. Lipidated depsipeptide analogues 4 and 6 were cytotoxic at higher concentrations, with analogue 6 being highly cytotoxic at 90 mg/mL. In contrast, amide analogue 14 exhibited much lower cytotoxicity at the same concentrations. Moreover, None of the amide analogues 14-17 nor the linear peptide 18 showed hemolytic activity at concentrations eight times the MIC, indicating that ring opening due to ester bond hydrolysis is not responsible for hemolysis.
+XR    PubMed: 22392790
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      Thr1-D-Ala 2-Val3-D-a Thr4-D-Asn 5-D-Ala6 
+//
+

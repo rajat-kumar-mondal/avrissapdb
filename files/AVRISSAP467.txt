@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP467
+ET    Non-clinical
+PN    Bacitractin A
+PL    17 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Bacillus licheniformis and Bacillus subtilis
+TX    Bacteria
+VL    Experimentally validated
+XX
+TO    VISA
+IC    MIC = 5.34 microG/ML
+TH    Not available
+XR    PubMed: 20654578
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      L-Asn-D-As n-D-Ala-L- Ser-D-Asn- L-Gln-D-Va l-D-Pro-D- Arg-D-Pro- 
+      D-Tyr-D-Th r-D-Phe-L- Thr-D-Pro- L-Thr-D-Th r 
+//
+

@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP65
+ET    Clinical
+PN    HAE
+PL    36 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Haemaphysalis longicornis
+TX    Animalia (Insect)
+VL    Experimentally validated
+XX
+TO    Mu50 (VISA) (clinical isolate stored at TS
+TO    Nissui, Tokyo, Japan)
+IC    MIC(90%) = 32 microG/ML
+TH    Not available
+XR    PubMed: 27531221
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      GCPLNQGACH NHCRSIGRRG GYCAGIIKQT CTCYRK 
+//
+

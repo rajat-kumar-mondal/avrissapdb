@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP259
+ET    Non-clinical
+PN    Daboiatoxin (DbTx)
+PL    64 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Daboia russelii venom
+SO    Daboia russelii
+TX    Animalia (Snake)
+VL    Experimentally validated
+XX
+TO    VRSA
+IC    MIC = nt, MBC = nt
+TH    Not available
+XR    PubMed: 22050758
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      MDFPYAFKCM  KDVVYTAAQ Y KKWVRYRA GC CGGNTAD SYC NAICTN RRIC FSDEC 
+      QRFNP DCQS 
+//
+

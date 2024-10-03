@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP128
+ET    Clinical
+PN    beta-diphenylalanine (Dip-P-113)
+PL    9 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Synthetic peptide
+TX    Not available
+VL    Experimentally validated
+XX
+TO    VISA01 (clinical MDR strain isolate provided by Tsai-Ling Yang, National Health Research Institutes (Miaoli, Taiwan))
+IC    MIC = 16 microG/ML
+TH    Dip-P-113 with bulky hydrophobic side chains caused 10-20% cell death and hemolysis at concentrations above 25microg/mL, but no adverse effects were observed in an in vivo endotoxemia mouse model treated with 10 mg/kg of Dip-P-113.
+XR    PubMed: 32605123
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      Ac- A K R  Dip Dip G  Y K R K F  Dip -NH2 
+//
+

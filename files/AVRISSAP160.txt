@@ -1,0 +1,24 @@
+ID    AVR/I/SSAP160
+ET    Non-clinical
+PN    LL-13
+PL    25 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Derived from LL-37
+TX    Not available
+VL    Experimentally validated
+XX
+TO    VRSA-7
+IC    MIC = 1024 microG/ML
+TH    Not available
+XR    PubMed: 30120393
+XR    PubMed: 34360692
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 2FCG_F
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 2K6O_A
+XR    UniProt: Q1KLX1
+XR    UniProt: P49913
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      IGKEFKRIVQ RIKDFLRNLV PRTES 
+//
+

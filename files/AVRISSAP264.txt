@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP264
+ET    Non-clinical
+PN    BCP61
+PL    9 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Bacillus subtilis BSn5
+TX    Bacteria
+VL    Experimentally validated
+XX
+TO    VRSA
+IC    MIC = 10 microG/ML
+TH    Not available
+XR    PubMed: 22578764
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      A-I-N-X-D- A-A-Y-L 
+//
+

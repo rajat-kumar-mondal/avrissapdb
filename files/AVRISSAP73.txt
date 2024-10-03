@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP73
+ET    Clinical
+PN    Daptomycin
+PL    16 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Streptomyces roseosporus
+TX    Bacteria
+VL    Experimentally validated
+XX
+TO    VRSA HMC3 (clinical strain isolated at the Hershey Medical Center)
+IC    MIC = 0.5 mg/L
+TH    Not available
+XR    PubMed: 14563898
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: DB00080
+XX
+SQ    SEQUENCE  
+      Thr-D-Asn- Glu-Tyr-As n-Pro-L-As n-Gly-L-Th r-L-Ser-D- Asn-Gly-L- 
+      Thr-L-Thr- L-Cys-L-Th r 
+//
+

@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP295
+ET    Non-clinical
+PN    Daptomycin
+PL    19 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Streptomyces roseosporus
+TX    Bacteria
+VL    Experimentally validated
+XX
+TO    VISA
+IC    MIC(90%) = 1 microG/ML, MIC RANGE = 0.0625 to 2 microG/ML
+TH    Daptomycin has demonstrated a favorable safety profile in both animal toxicology studies and clinical trials, including a Phase I trial assessing its tolerability and pharmacokinetics in hemodialysis patients with end-stage renal disease. Daptomycin also can cause dose-dependent hemolysis, especially in patients with renal impairment or on high doses, necessitating monitoring for anemia or hemoglobin changes during therapy.
+XR    PubMed: 15330747
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: DB00080
+XX
+SQ    SEQUENCE  
+      Thr-D-Asn- Glu-Tyr-As n-Pro-L-As n-Gly-L-Th r-L-Ser-D- Asn-Gly-L- 
+      Thr-L-Thr- L-Cys-L-Th r 
+//
+

@@ -1,0 +1,23 @@
+ID    AVR/I/SSAP52
+ET    Clinical
+PN    Cecropin A
+PL    23 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Hyalophora cecropi
+TX    Animalia (Insect)
+VL    Experimentally validated
+XX
+TO    VISA (the VISA strain was isolated from a clinical specimen submitted for routine bacteriological investigation to the Institute of Infectious Diseases and Public Health, Polytechnic University of Marche, Ancona, Italy)
+IC    FIC = 0.312
+TH    Cecropin A exhibits low cytotoxicity towards mammalian cells at certain concentrations
+XR    PubMed: 16797106
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 2LSA_A
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 2MAG_A
+XR    UniProt: C0HKN6
+XR    UniProt: P11006
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      GIGKFLHSAK KFGKAFVGEI MNS 
+//
+

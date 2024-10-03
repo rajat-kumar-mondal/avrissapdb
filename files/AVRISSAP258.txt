@@ -1,0 +1,23 @@
+ID    AVR/I/SSAP258
+ET    Non-clinical
+PN    Crotoxin B 
+PL    134 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Crotalus durissus terrificus venom
+SO    Crotalus durissus terrificus
+TX    Animalia (Snake)
+VL    Experimentally validated
+XX
+TO    VRSA
+IC    MIC = nt, MBC = nt
+TH    Not available
+XR    PubMed: 22050758
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      MSPDFYAYFK ILKVKEEYGP CGVSNPWCYC TSSDNEIVCK KNGNACIEGC EPYCRGRGAA 
+      GTCRDSGKPK DATCDAVLKC YKSGKRCLPT KYGFGGFYNR PDDYFKDPKT MGAVCGEMFR 
+      KDLVKWCKKG CKKP 
+//
+

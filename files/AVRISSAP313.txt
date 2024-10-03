@@ -1,0 +1,25 @@
+ID    AVR/I/SSAP313
+ET    Non-clinical
+PN    Lacticin 3147
+PL    50 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Lactococcus lactis
+TX    Bacteria
+VL    Experimentally validated
+XX
+TO    VISA 22783
+IC    MIC = 61.8 mg/L
+TH    Not available
+XR    PubMed: 19561147
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      NH2-Ala-Al a-Dhb-Asn- Dhb-Phe-D  Ala-Leu-Al a-Asp-Tyr- Trp-Gly-As 
+      n-Asn-Gly- Ala-Trp-Al a-Abu-Leu- Abu-His-Gl u-Ala-Met- Ala-Trp-Al 
+      a-Lys-COOH  + Dhb-Pro -Ala-Dhb-P ro-Ala-Ile -D Ala-Ile -Leu-D Ala 
+      -Ala-Tyr-I le-Ala-Thr -Asn-Thr-A la-Pro-Abu -Thr-Lys-A la-Abu-Arg 
+      -Ala-Ala 
+//
+

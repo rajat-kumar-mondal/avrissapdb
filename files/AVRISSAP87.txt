@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP87
+ET    Clinical
+PN    D-IK8
+PL    8 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Synthetic peptide
+TX    Not available
+VL    Experimentally validated
+XX
+TO    VRSA (VRS4) (clinical isolate)
+IC    EC50 = 8 microM
+TH    The MTS assay on HaCat cells revealed that D-IK8 have EC50 value of > 256microM, indicating low toxicity to mammalian cells relative to their antimicrobial potency, which suggests a favorable drug safety profile and selective action against bacterial membranes.
+XR    PubMed: 27405275
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      IRIKIRIK 
+//
+

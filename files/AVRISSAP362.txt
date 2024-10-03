@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP362
+ET    Non-clinical
+PN    Protonectin-F
+PL    12 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Venom of Agelaia pallipes pallipes
+SO    Agelaia pallipes pallipes
+TX    Animalia (Insect)
+VL    Experimentally validated
+XX
+TO    S. aureus VRSA
+IC    MIC = 16 microG/ML
+TH    Protonectin-F was found to be toxic to cancerous and non-cancerous cell lines. Specifically, Protonectin-F showed activity against MM96L cells, with a cytotoxic concentration (CC50) close to the concentration necessary to kill the correlated non-cancer cell HaCaT. The cytotoxic concentrations (CC50) of Protonectin-F were also more active toward HCT116, with a CC50 <10microM, and twice the concentration of Protonectin-F was necessary to kill the correlated non-cancer cell HEK293 (CC50 19microM).
+XR    PubMed: 33244888
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 7JHF_A
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      IFGTILGFLK GL 
+//
+

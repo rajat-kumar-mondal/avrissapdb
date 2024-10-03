@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP392
+ET    Non-clinical
+PN    Cerein 7B(Bacteriocin)
+PL    8 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Bacillus cereus Bc7
+TX    Bacteria
+VL    Experimentally validated
+XX
+TO    VRSA
+IC    MIC = 20 microG/ML
+TH    Not available
+XR    PubMed: 37370267
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      N-Gly-Trp- Trp-Asn-Se r-Trp-Gly- Lysï¿½ 
+//
+

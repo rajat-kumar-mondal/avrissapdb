@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP390
+ET    Non-clinical
+PN    LL-13+LL-17+vancomycin
+PL    38 [Note: any special compound, if present in sequence, is not considered in length]
+SR    cathelicidin (hCAP19)
+SO    Homo sapiens
+TX    Animalia (Human)
+VL    Experimentally validated
+XX
+TO    BR-VRSA
+IC    FIC = 0.13 microG/ML
+TH    Not available
+XR    PubMed: 30120393
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      IGKEFKRIVQ RIKDFLRNLV PRTES + FK RIVQRIKDFL R 
+//
+

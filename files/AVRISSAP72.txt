@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP72
+ET    Clinical
+PN    BMAP28
+PL    27 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Bovine Myeloid 
+SO    Bos taurus
+TX    Animalia (Cow)
+VL    Experimentally validated
+XX
+TO    VRS1 (VRSA) (clinical isolate stored at TS
+TO    Nissui, Tokyo, Japan)
+IC    MIC(90%) = 32 microG/ML
+TH    Not available
+XR    PubMed: 27531221
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      GGLRSLGKKI LRAWKKYGPI IVPIIRI 
+//
+

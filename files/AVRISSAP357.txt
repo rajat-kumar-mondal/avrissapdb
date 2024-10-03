@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP357
+ET    Non-clinical
+PN    CSPK14
+PL    12 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Skin secretion of the frog species Bacillus amyloliquefaciens subsp. plantarum FZB42(T)
+SO    Bacillus amyloliquefaciens subsp. plantarum FZB42(T)
+TX    Bacteria
+VL    Experimentally validated
+XX
+TO    VRSA
+IC    MIC = 64 microG/ML
+TH    Not available
+XR    PubMed: 27787755
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      HYDPGDDSGN TG 
+//
+

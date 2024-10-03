@@ -1,0 +1,23 @@
+ID    AVR/I/SSAP293
+ET    Non-clinical
+PN    FCt1-16
+PL    16 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    West Indian mountain chicken frog Leptodactylus fallax
+TX    Animalia (Frog)
+VL    Experimentally validated
+XX
+TO    VISA ATCC 700699MU50
+IC    MIC = 100 microM
+TH    Not available
+XR    PubMed: 17766389
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 5U9S_A
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 5U9R_A
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 5U9Q_A
+XR    UniProt: C0HKF0
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      GVVDILKGAA KDIAGH-NH2 
+//
+

@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP172
+ET    Non-clinical
+PN    Bactofencin A (analog 5)
+PL    22 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Lactobacillus salivarius
+TX    Bacteria
+VL    Experimentally validated
+XX
+TO    VRSA-25
+IC    MIC = 4.3 microM
+TH    Not available
+XR    PubMed: 30540905
+XR    PubMed: 34360692
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      KRKKHRCRVW NNGLPTGLYR WC 
+//
+

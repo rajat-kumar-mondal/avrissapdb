@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP257
+ET    Non-clinical
+PN    AgkTx-II (PLA2)
+PL    47 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Agelena orientalis venom
+SO    Agelena orientalis
+TX    Animalia (Insect)
+VL    Experimentally validated
+XX
+TO    VRSA
+IC    MIC = 21.25 (83.6%) microG/ML, MBC (Colony forming units/ML) = (6) 80%
+TH    Not available
+XR    PubMed: 22050758
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      GIDCGKAGKP CPCKKPCKKS CRFSFAYPFC GRGKQYRKMK ADCCSCK 
+//
+

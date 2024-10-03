@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP98
+ET    Clinical
+PN    LL-37
+PL    37 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Human skin
+SO    Homo sapiens
+TX    Animalia (Human)
+VL    Experimentally validated
+XX
+TO    VRSA (VRS5) (clinical isolate)
+IC    EC50 = 128 microM
+TH    Low toxicity and hemolytic activity.
+XR    PubMed: 27405275
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 2K6O_A
+XR    UniProt: Q1KLX1
+XR    UniProt: P49913
+XR    DrugBank: DB16532
+XX
+SQ    SEQUENCE  
+      LLGDFFRKSK EKIGKEFKRI VQRIKDFLRN LVPRTES 
+//
+

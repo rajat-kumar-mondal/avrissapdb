@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP464
+ET    Non-clinical
+PN    Gramicidin
+PL    16 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Soil bacterium Bacillus brevis
+TX    Bacteria
+VL    Experimentally validated
+XX
+TO    VISA
+IC    MIC = Not available
+TH    Not available
+XR    PubMed: 20654578
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: DB00027
+XX
+SQ    SEQUENCE  
+      VGALAVVVWL WLWLWG 
+//
+

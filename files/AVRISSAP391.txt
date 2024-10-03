@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP391
+ET    Non-clinical
+PN    Hecate(Hec)
+PL    23 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Bee venom
+SO    Apis mellifera
+TX    Animalia (Insect)
+VL    Experimentally validated
+XX
+TO    VRSA
+IC    MIC = 80 microM
+TH    Not available
+XR    PubMed: 30349337
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      FALAL-KALK KALKKLKKAL KKAL 
+//
+

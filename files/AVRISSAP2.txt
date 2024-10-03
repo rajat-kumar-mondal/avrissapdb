@@ -1,0 +1,24 @@
+ID    AVR/I/SSAP2
+ET    Clinical
+PN    Magainin-2
+PL    23 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Xenopus laevis
+TX    Animalia (Frog)
+VL    Experimentally validated
+XX
+TO    VISA-8 (clinical specimen from the Institute of Infectious Diseases and Public Health, Polytechnic University of Marche, Ancona, Italy)
+IC    MIC = 16 microG/ML
+TH    Not available
+XR    PubMed: 16797106
+XR    PubMed: 34360692
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 2LSA_A
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 2MAG_A
+XR    UniProt: C0HKN6
+XR    UniProt: P11006
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      GIGKFLHSAK KFGKAFVGEI MNS 
+//
+

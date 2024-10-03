@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP186
+ET    Non-clinical
+PN    MP196
+PL    6 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Synthetic peptide
+TX    Not available
+VL    Experimentally validated
+XX
+TO    VISA-16
+IC    MIC = 16 microM
+TH    Light hemolytic effect on cell lines of breast cancer. Acute toxicity in mice cells
+XR    PubMed: 27617260
+XR    PubMed: 34360692
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      RWRWRW-NH2 
+//
+

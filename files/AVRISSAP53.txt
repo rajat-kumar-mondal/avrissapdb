@@ -1,0 +1,23 @@
+ID    AVR/I/SSAP53
+ET    Clinical
+PN    Magainin-2
+PL    23 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Xenopus laevis
+TX    Animalia (Frog)
+VL    Experimentally validated
+XX
+TO    VISA (the VISA strain was isolated from a clinical specimen submitted for routine bacteriological investigation to the Institute of Infectious Diseases and Public Health, Polytechnic University of Marche, Ancona, Italy)
+IC    FIC = 0.458
+TH    Magainin II exhibits low cytotoxicity towards mammalian cells, is non-hemolytic, and selectively disrupts bacterial membranes, demonstrating a favorable safety profile and broad antimicrobial activity.
+XR    PubMed: 16797106
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 2LSA_A
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 2MAG_A
+XR    UniProt: C0HKN6
+XR    UniProt: P11006
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      GIGKFLHSAK KFGKAFVGEI MNS 
+//
+

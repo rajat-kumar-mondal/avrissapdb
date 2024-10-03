@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP355
+ET    Non-clinical
+PN    Mutacin 1140
+PL    18 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Streptococcus mutans
+TX    Bacteria
+VL    Experimentally validated
+XX
+TO    VISA
+IC    Cmax = 11.0 +- 4.1 microG/ML
+TH    Not available
+XR    PubMed: 20039385
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      F-K-A-W-Dh a-L-A-Abu- P-G-A-A-R- Dhb-G-A-F- N-A-Y-A 
+//
+

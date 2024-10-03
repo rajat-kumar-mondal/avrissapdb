@@ -1,0 +1,23 @@
+ID    AVR/I/SSAP358
+ET    Non-clinical
+PN    Fusaricidin A/LI-F04a
+PL    19 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Paenibacillus polymyxa
+TX    Bacteria
+VL    Experimentally validated
+XX
+TO    Staphylococcus aureus Mu50 (VRSA) ATCC 700699
+IC    MIC =>128 microG/ML
+TH    Depsipeptides 6, 8, and 11 showed hemolytic activity at higher concentrations, correlating with their hydrophobicity, while amide analogues 14Ã¯Â¿Â½16 had no appreciable hemolytic activity. DMSO presence in the assay may enhance hemolysis due to potential peptide aggregation at higher concentrations. Depsipeptides 4 and 6 were cytotoxic to WRL 68 and HepG2 cell lines at higher concentrations, unlike amide analogue 14, which exhibited much lower cytotoxicity. The lack of cytotoxicity in amide analogue 14 is likely due to its conformational differences and lower hydrophobicity compared to the depsipeptides.
+XR    PubMed: 22392790
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      D-Asn-D-As n-D-Ser-L- Tyr-L-Asn- L-Asn-D-As n-L-Asn-D- Ser-L-Thr- 
+      L-Gln-D-As n-D-Asn-D- Ser-L-Tyr- L-Asn-L-As n-D-Asn-D- Asn 
+      
+//
+

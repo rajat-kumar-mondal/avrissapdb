@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP117
+ET    Clinical
+PN    RTD-1
+PL    18 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Theta-defensin
+SO    rhesus macaque (Macaca mulatta) 
+TX    Animalia (Rhesus monkey)
+VL    Experimentally validated
+XX
+TO    DH 290 (hVISA) (clinical bacterial isolate obtained from hospitalized patients at Huntington Hospital (Pasadena, CA, USA))
+IC    MBC = 3 microM
+TH    RTD-1, along with Crp-4 and RMAD-4, are non-hemolytic peptides. Systemic administration of RTD-1 to BALB/c mice was non-toxic and stable in serum and plasma, and it significantly improved survival in mice with E. coli peritonitis and sepsis induced by cecal ligation-and-puncture.
+XR    PubMed: 24345876
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: 1HVZ_A
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      GFCRCLCRRG VCRCICTR 
+//
+

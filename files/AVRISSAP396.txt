@@ -1,0 +1,22 @@
+ID    AVR/I/SSAP396
+ET    Non-clinical
+PN    Pexiganan
+PL    21 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Skin
+SO    African clawed frog
+TX    Animalia (Frog)
+VL    Experimentally validated
+XX
+TO    VRSA
+IC    EC50 = 32 microM
+TH    Exhibit low toxicity to mammalian cells.
+XR    PubMed: 27405275
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: DB16293
+XX
+SQ    SEQUENCE  
+      Gly-Ile-Gl y-Lys-Phe- Leu-Lys-Ly s-Ala-Lys- Lys-Phe-Gl y-Lys-Ala- 
+      Phe-Val-Ly s-Ile-Leu- Lys-Lys-NH 2 
+//
+

@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP397
+ET    Non-clinical
+PN    WR12 + D-1K8
+PL    20 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Synthetic conjugation
+TX    Not available
+VL    Experimentally validated
+XX
+TO    VRSA
+IC    FIC index of 0.27
+TH    Not available
+XR    PubMed: 27405275
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      RWWRWWRRWW RR + IRIKI RIK 
+//
+

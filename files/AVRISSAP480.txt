@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP480
+ET    Non-clinical
+PN    Phe-P-113
+PL    12 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Synthetic peptide
+TX    Not available
+VL    Experimentally validated
+XX
+TO    VRSA02
+IC    MIC = 64 microG/ML
+TH    Phe-P-113 exhibited low toxicity and hemolytic activity. It caused minimal cell death and hemolysis, indicating a favorable safety profile compared to other peptides with bulkier hydrophobic side chains.
+XR    PubMed: 32605123
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      Ac- A K R  Phe Phe G  Y K R K F  Phe -NH2 
+//
+

@@ -1,0 +1,21 @@
+ID    AVR/I/SSAP241
+ET    Non-clinical
+PN    C14-KWI
+PL    17 [Note: any special compound, if present in sequence, is not considered in length]
+SR    Not available
+SO    Synthetic peptide
+TX    Not available
+VL    Experimentally validated
+XX
+TO    VISA-31
+IC    MIC = 12.5 microM
+TH    Strong hemolytic effect on human erythrocytes
+XR    PubMed: 34360692
+XR    RCSB PDB/PDBsum/PDBe/PDBj/PDBe-KB/MMDB: Not available 
+XR    UniProt: Not available
+XR    DrugBank: Not available
+XX
+SQ    SEQUENCE  
+      C14-KWI 
+//
+
